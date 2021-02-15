@@ -6,7 +6,7 @@
 //  Copyright (c) 2014 Ali Karagoz. All rights reserved.
 //
 
-#import <UIKit/UIKit.h>
+@import UIKit;
 
 @class MCSwipeTableViewCell;
 
